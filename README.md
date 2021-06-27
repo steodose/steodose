@@ -1,5 +1,5 @@
 Hello!
-My name is Stephan Teodosescu. I primarily work in R and regularly post the code for my projects here on Github. I'm a sports analytics hobbyist, and mainly like to work with hockey and soccer data, but occasionally dabble in other sports as well as non-sports topics.
+My name is Stephan Teodosescu. I primarily work in R and regularly post the code for my projects here on Github. I'm a sports analytics hobbyist, and like to work with hockey and soccer data, but occasionally dabble in other sports as well as non-sports topics.
 
 🏒  I recently built a [Shiny web app](https://steodosescu.shinyapps.io/nhl-odds/) visualizing up-to-date power rankings and playoff odds for the 2020-21 NHL season.
 
