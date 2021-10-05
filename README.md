@@ -3,7 +3,7 @@ My name is Stephan Teodosescu. I primarily work in R and regularly post the code
 
 🏒  I recently built a [Shiny web app](https://steodosescu.shinyapps.io/nhl-odds/) visualizing up-to-date power rankings and playoff odds for the 2020-21 NHL season.
 
-⚽  I also maintain a Premier League predictions model, the code of which can be found in the club soccer forecasts repository, and the results in this [Shiny App](https://steodosescu.shinyapps.io/club-soccer-forecasts/).
+⚽  I also maintain a Premier League predictions model, the code for which can be found in the club soccer forecasts repository, and the results in this [Shiny App](https://steodosescu.shinyapps.io/club-soccer-forecasts/).
 
 I can be reached on Twitter [@steodosescu](https://twitter.com/steodosescu), and at my website [stephanteodosescu.com](https://stephanteodosescu.com/). You can also follow my amateur writing at the blog [Between the Pipes](https://betweenpipes.wordpress.com/).
 
