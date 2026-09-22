@@ -1,5 +1,5 @@
 Hello!
-My name is Stephan Teodosescu. I primarily work in R and python, and regularly post the code for my projects here on GiHhub. I'm a sports analytics hobbyist, and like to work with football, hockey and soccer data, but occasionally dabble in other sports as well as non-sports topics.
+My name is Stephan Teodosescu. I primarily work in R and python, and regularly post the code for my projects here on Github. I'm a sports analytics hobbyist, and like to work with football, hockey and soccer data, but occasionally dabble in other sports as well as non-sports topics.
 
 I can be reached on Twitter [@steodosescu](https://twitter.com/steodosescu), and at my website [stephanteodosescu.com](https://stephanteodosescu.com/). You can also follow my writing at the blog [Between the Pipes](https://betweenthepipes.substack.com/).
 
